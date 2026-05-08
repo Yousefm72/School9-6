@@ -67,12 +67,12 @@ body {
   align-items: center;
   gap: 0.4rem;
   text-decoration: none;
-  background: rgba(255, 255, 255, 0.86);
-  color: #1d3557;
+  background: rgba(3, 118, 93, 0.393);
+  color: #151617;
   border: 1px solid rgba(29, 53, 87, 0.15);
   border-radius: 900px;
   padding: 0.35rem 0.8rem;
-  font-size: 0.92rem;
+  font-size: 1.2rem;
   font-weight: 700;
   transition: transform 0.2s ease, background-color 0.2s ease;
 }
